@@ -9,7 +9,7 @@
     "homepage": "https://github.com/exos/twitteroauth",
     "version": "0.2.1",
     "time": "2013-06-13",
-    "license": "https://github.com/exos/twitteroauth/blob/master/LICENSE",
+    "license": "BSD",
     "authors": [
         {
             "name": "Abraham Williams"
